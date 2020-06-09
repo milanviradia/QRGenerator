@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QRGenerator</string>
+
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="dob">Date Of Birth</string>
+    <string name="address">Address</string>
+    <string name="uploadimage">Select Photo</string>
+</resources>
