@@ -11,14 +11,15 @@
 * image will be converted into base64 string format and JSON Object will be generated with following keys:
 name, email, dob, address, image
 
-* Json Object structure:
-{
-
-"name" : "abc",
-"email" : "abc@xyz.com",
-"dob" : "1-1-2000",
-"address" : "Bangalore, India",
-"image": " /9j/4AAQSkZJRgABAQEAYADXQ25Ny6Z3k......................(base64string)"
-}
+Json Object structure:
+  
+  {
+  
+    "name" : "abc",
+    "email" : "abc@xyz.com",
+    "dob" : "1-1-2000",
+    "address" : "Bangalore, India",
+    "image": " /9j/4AAQSkZJRgABAQEAYADXQ25Ny6Z3k......................(base64string)"
+  }
 
 * QR Code will be generated and displayed in imageView. Also, it can be shared via other applications using "ShareQR" button.
